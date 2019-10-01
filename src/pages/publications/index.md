@@ -1,5 +1,5 @@
 ---
-templateKey: 'product-page'
+templateKey: 'publications-page'
 path: /publications
 title: Publications
 image: /img/Publications.jpg
