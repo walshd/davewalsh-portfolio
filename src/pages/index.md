@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Dave Walsh
-image: /img/home-jumbotron.jpg
+image: /img/davewalsh001.jpg
 heading: Dave Walsh
 subheading: 'Educator, Researcher, Developer, Designer'
 mainpitch:
@@ -10,30 +10,7 @@ mainpitch:
     Understanding the web and how it is used is my area of interest.
 description: Test
 intro:
-  blurbs:
-    - image: /img/products-grid2.jpg
-      text: |
-        test
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+  blurbs: []
   heading: Teaching
   description: 'I am a Senior lecturer in web design and development. '
 main:
@@ -44,13 +21,13 @@ main:
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Museum website research
+    image: /img/museumwebsites.jpeg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Code Development
+    image: /img/code.png
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Dave Walsh Senior lecturer in web design and development
+    image: /img/davewalsh001.jpg
 ---
 
